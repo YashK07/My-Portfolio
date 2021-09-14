@@ -1,26 +1,20 @@
 # My-Portfolio
 Hi 👋, I'm Harsh,I am hard working and driven individual who isn't afraid to face a challenge.
 Currently,I am in second year and pursuing Electronics and communication engineering from Bit,Mesra.
+
+
 🌱 I’m currently learning Machine Learning and Artificial intelligence.
-
-📄 Experiences:-
-1.)ML and AI Member in Google Develeoper Student Club. 2.)Electrical Member in Firebolt Racing Team.
-
-👨‍💻Programming Languages:-
-
-![image](https://user-images.githubusercontent.com/90636720/133275883-4e1127aa-4185-4414-84fe-aaf562738012.png)
-![image](https://user-images.githubusercontent.com/90636720/133275636-fcb32efe-737a-45ed-b206-837162462eee.png)
-
-
 
 
 ⚡Skills-
-Leadership skill,
-Teamwork,
-Patience,
-Determination and Commitment.
+Leadership skill,Teamwork,Patience,Determination and Commitment.
 
-Linkedin profile:- 
-
-![image](https://user-images.githubusercontent.com/90636720/133233297-b4b7b2ff-a874-4a08-997f-054c48065e5a.png)
-https://www.linkedin.com/in/harsh-32b753215
+😄My hobbies are Sports, Video Games, Listening to Music.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh-32b753215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-32b753215" height="30" width="40" /></a>
+<a href="https://instagram.com/harshrajput__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshrajput__03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshharsh_fire1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshharsh_fire1" height="30" width="40" /></a>
+</p>
