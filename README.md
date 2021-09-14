@@ -1,1 +1,14 @@
 # My-Portfolio
+#About myself
+Myself Harsh,I am hard working and driven individual who isn't afraid to face a challenge.
+Currently,I am in second year and pursuing Electronics and communication engineering from Bit,Mesra.
+##Interests.
+I am interested in learning python language,Machine Learning and Artificial intelligence.
+###Experience.
+1.)ML and AI Member in Google Develeoper Student Club.
+2.) Electrical Member in Firebolt Racing Team.
+####Skills
+Leadership skill
+Teamwork
+Patience
+Determination and Commitment
