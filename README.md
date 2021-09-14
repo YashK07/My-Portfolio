@@ -8,7 +8,7 @@ I am interested in learning python language,Machine Learning and Artificial inte
 1.)ML and AI Member in Google Develeoper Student Club.
 2.) Electrical Member in Firebolt Racing Team.
 ####Skills
-Leadership skill
-Teamwork
-Patience
-Determination and Commitment
+Leadership skill,
+Teamwork,
+Patience,
+Determination and Commitment.
