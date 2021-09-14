@@ -5,10 +5,12 @@ Currently,I am in second year and pursuing Electronics and communication enginee
 📄 Experiences-
 1.)ML and AI Member in Google Develeoper Student Club.
 2.) Electrical Member in Firebolt Racing Team.
+
 👨‍💻Programming Languages-
 
-![image](https://user-images.githubusercontent.com/90636720/133233140-d6e694e2-2aae-4540-a783-0e66f8c0c9ca.png)
-![image](https://user-images.githubusercontent.com/90636720/133233166-de847b32-600e-4d0d-a10d-4b4da60e20f7.png)
+![image](https://user-images.githubusercontent.com/90636720/133275883-4e1127aa-4185-4414-84fe-aaf562738012.png)
+![image](https://user-images.githubusercontent.com/90636720/133275636-fcb32efe-737a-45ed-b206-837162462eee.png)
+
 
 
 
